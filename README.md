@@ -4,14 +4,11 @@ Highlight text. Read it in your language.
 
 Claro is a small background translator for Mac and Windows, with a compact movable popup and a language picker. Spanish is the default.
 
-## Download the beta
+## Download
 
-[Download Claro 0.1.0 beta 1](https://github.com/Cool-in/claro-downloads/releases/tag/v0.1.0-beta.1)
+**Mac:** [Download Claro 0.2.0](https://github.com/Cool-in/claro-downloads/releases/tag/v0.2.0). Apple silicon, macOS 26 or later. Developer ID signed and notarized by Apple. Unzip and move Claro to Applications.
 
-- **Windows x64:** installer included. The beta is unsigned; real Windows installation and selection behavior are awaiting tester verification.
-- **Apple silicon Mac, macOS 26+:** Developer ID signed, Apple notarized and stapled app ZIP.
-
-This is a beta for testing, not a completed commercial launch.
+**Windows x64:** [Claro 0.1.0 beta 1](https://github.com/Cool-in/claro-downloads/releases/tag/v0.1.0-beta.1). This installer is an unsigned beta and is still awaiting tester verification.
 
 ## Free, and a one-time €10 option
 
